@@ -251,5 +251,3 @@ MIT License © 2025 \[Kushagra]
 This system ensures **end-to-end integrity** of digital evidence, providing a **transparent, tamper-proof, and court-ready platform** for the modern justice system.
 
 ---
-
-Do you want me to also **add a frontend interaction example** (like how JavaScript is used for file uploads, hash verification popups, or live chart updates) so it’s clear why JS is included?
